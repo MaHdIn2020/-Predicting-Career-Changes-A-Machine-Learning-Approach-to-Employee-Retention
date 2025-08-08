@@ -1,6 +1,6 @@
 # Predicting Career Changes: A Machine Learning Approach to Employee Retention
 
-![ML Banner](https://via.placeholder.com/1000x250.png?text=Predicting+Career+Changes)
+<img src="ML Banner.png" alt="ML Banner">
 
 ## 📌 Overview
 This project focuses on predicting whether an employee will change their career using machine learning techniques.  
